@@ -1,28 +1,40 @@
-# Wikipedia
+<!-- Twitter icon from https://github.com/carlsednaoui/gitsocial -->
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
+# _Wiki Double_
 
-## Development server
+#### _UI- Grids_
+_UI - Week 1: Building Layouts_
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+#### **Dawn Mott** :sunrise_over_mountains: and **Cam Button** _May 22, 2018_
 
-## Code scaffolding
+## Description
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class/module`.
+_Beginning of a Wikipedia copy_
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+## Setup/Installation Requirements
 
-## Running unit tests
+* _Clone this repository to your computer_
+* _Run "npm install" in CLI_
+* _Run "npm run build" in CLI_
+* _Run npm start_
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## Known Bugs
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
+_There are many known :bug: at this time. This is a work in progress._
 
-## Further help
+## Support and contact details
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+_If you'd like to chat, please contact_ @dawnrparty _on_ ![alt text][1.1].
+
+## Technologies Used
+
+_HTML, CSS, JavaScript, jQuery, Bootstrap, and webpack._
+
+### License
+
+*This page is licensed under the MIT license.*
+
+&copy; 2018 **Dawn Mott** :sunrise_over_mountains: and **Cam Button**
